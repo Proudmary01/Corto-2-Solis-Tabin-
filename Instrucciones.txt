@@ -1,0 +1,7 @@
+Base de datos:
+MySQL
+-> Cambiar usuario y contraseña en inc/classes/DB.php
+
+Dependiendo del localhost:
+WAMPSERVER
+-> Agregar directorio raiz en ajax/login.php
